@@ -1,0 +1,7 @@
+{
+    "name": "pxgamer/cdn",
+    "description": "My asset CDN for cdn.pxgamer.xyz",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
